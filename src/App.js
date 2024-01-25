@@ -2,7 +2,6 @@ import { useState } from "react";
 
 const quoteData = [
   { text: "The purpose of our lives is to be happy.", author: "Dalai Lama" },
-  { text: "The purpose of our lives is to be happy.", author: "Dalai Lama" },
   {
     text: "Life is what happens when you're busy making other plans.",
     author: "John Lennon"
@@ -136,6 +135,7 @@ const quoteData = [
       "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
     author: "Steve Jobs"
   },
+  { text: "hey pretty!", author: "Pratu" },
   {
     text:
       "My mama always said, life is like a box of chocolates. You never know what you're gonna get.",
