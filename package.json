@@ -1,6 +1,6 @@
 {
   "homepage": "https://sohumcs.github.io/quote_generator",
-  "name": "quote_generator",
+  "name": "quote-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
